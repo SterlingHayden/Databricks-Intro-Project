@@ -12,4 +12,7 @@ Steps to creating Workspace:
 
 Adding data to the workspace:  
 1. Data can be added through varrious methods in Databricks. For my beginner use case and for the fun of it I'm going to call an api (you can install new libraries inside your cluster, linked [here](https://caiomsouza.medium.com/azure-databricks-installing-a-python-library-a511938ddfe)).  
-2. 
+2. To upload files simply upload data to DBFS inside your workspace or add file outside workspace. The DBFS methods gives copy and paste import statements.  
+
+
+After the above are completed you can write your script.  
